@@ -1,14 +1,7 @@
-# SFDX  App
+# DataTest
+Be sure to look at...
 
-## Dev, Build and Test
-
-
-## Resources
-
-
-## Description of Files and Directories
-
-
-## Issues
+** /soql - contains the SOQL query referenced in the export command
+** /data - contains the exported data
 
 
