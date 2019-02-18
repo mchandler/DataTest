@@ -1,0 +1,44 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Candidate__c",
+                "referenceId": "Candidate__cRef1"
+            },
+            "Name": "Sam Sampson",
+            "Email__c": "samsampson@test.com",
+            "Employee_Type__c": "W2",
+            "Preferred_Job__c": "Powerbuilder Developer"
+        },
+        {
+            "attributes": {
+                "type": "Candidate__c",
+                "referenceId": "Candidate__cRef2"
+            },
+            "Name": "Bob Barkley",
+            "Email__c": "bobbarkley@test.com",
+            "Employee_Type__c": "W2",
+            "Preferred_Job__c": "Cobol Developer"
+        },
+        {
+            "attributes": {
+                "type": "Candidate__c",
+                "referenceId": "Candidate__cRef3"
+            },
+            "Name": "Jim Johnson",
+            "Email__c": "jimjohnson@test.com",
+            "Employee_Type__c": "W2",
+            "Preferred_Job__c": "ColdFusion Developer"
+        },
+        {
+            "attributes": {
+                "type": "Candidate__c",
+                "referenceId": "Candidate__cRef4"
+            },
+            "Name": "Phil Philips",
+            "Email__c": "phil@test.com",
+            "Employee_Type__c": "W2",
+            "Preferred_Job__c": "Cobol Developer"
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+SELECT Id, Name, Email__c, Employee_Type__c, Preferred_Job__c,
+(SELECT Id, Company_Name__c, Job_Title__c, Start_Date__c, End_Date__c, Job_Description__c
+FROM Candidate_Histories__r)
+FROM Candidate__c

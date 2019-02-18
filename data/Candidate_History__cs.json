@@ -1,0 +1,136 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Candidate_History__c",
+                "referenceId": "Candidate_History__cRef1"
+            },
+            "Company_Name__c": "Bill's WebDev",
+            "Job_Title__c": "Powerbuilder Developer",
+            "Start_Date__c": "2018-08-06",
+            "End_Date__c": "2018-11-30",
+            "Job_Description__c": "Lots of dev stuff.",
+            "Candidate__c": "@Candidate__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Candidate_History__c",
+                "referenceId": "Candidate_History__cRef2"
+            },
+            "Company_Name__c": "Jims Powerbuilder Warehouse",
+            "Job_Title__c": "Powerbuilder Developer",
+            "Start_Date__c": "2018-12-03",
+            "End_Date__c": "2019-01-18",
+            "Job_Description__c": "I did a lot of Powerbuilder stuff here. It was awful.",
+            "Candidate__c": "@Candidate__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Candidate_History__c",
+                "referenceId": "Candidate_History__cRef3"
+            },
+            "Company_Name__c": "BAC Company",
+            "Job_Title__c": "Cobol Developer",
+            "Start_Date__c": "2017-08-14",
+            "End_Date__c": "2017-11-24",
+            "Job_Description__c": "I did so much here I don't even know where to start.",
+            "Candidate__c": "@Candidate__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Candidate_History__c",
+                "referenceId": "Candidate_History__cRef4"
+            },
+            "Company_Name__c": "ABC Company",
+            "Job_Title__c": "Cobol Developer",
+            "Start_Date__c": "2017-05-08",
+            "End_Date__c": "2017-07-21",
+            "Job_Description__c": "I did lots of stuff at this job.",
+            "Candidate__c": "@Candidate__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Candidate_History__c",
+                "referenceId": "Candidate_History__cRef5"
+            },
+            "Company_Name__c": "CAB Company",
+            "Job_Title__c": "Cobol Developer",
+            "Start_Date__c": "2018-03-05",
+            "End_Date__c": "2018-06-29",
+            "Job_Description__c": "I ran this place. Seriously, they would be hosed without me.",
+            "Candidate__c": "@Candidate__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Candidate_History__c",
+                "referenceId": "Candidate_History__cRef6"
+            },
+            "Company_Name__c": "IBM",
+            "Job_Title__c": "ColdFusion Developer",
+            "Start_Date__c": "2016-08-16",
+            "End_Date__c": "2016-10-01",
+            "Job_Description__c": "Development activities",
+            "Candidate__c": "@Candidate__cRef3"
+        },
+        {
+            "attributes": {
+                "type": "Candidate_History__c",
+                "referenceId": "Candidate_History__cRef7"
+            },
+            "Company_Name__c": "Dell",
+            "Job_Title__c": "ColdFusion Developer",
+            "Start_Date__c": "2016-10-17",
+            "End_Date__c": "2016-12-12",
+            "Job_Description__c": "Development stuff",
+            "Candidate__c": "@Candidate__cRef3"
+        },
+        {
+            "attributes": {
+                "type": "Candidate_History__c",
+                "referenceId": "Candidate_History__cRef8"
+            },
+            "Company_Name__c": "Coboholics Anonymous",
+            "Job_Title__c": "Cobol Developer",
+            "Start_Date__c": "2017-05-29",
+            "End_Date__c": "2017-08-25",
+            "Job_Description__c": "I Cobolled my way through this gig like a mad man. It was awesome.",
+            "Candidate__c": "@Candidate__cRef4"
+        },
+        {
+            "attributes": {
+                "type": "Candidate_History__c",
+                "referenceId": "Candidate_History__cRef9"
+            },
+            "Company_Name__c": "Cobotch Hotshots, Inc.",
+            "Job_Title__c": "Cobol Developer",
+            "Start_Date__c": "2017-09-04",
+            "End_Date__c": "2017-12-15",
+            "Job_Description__c": "I didn't do much here. I mostly just browsed the web and watched YouTube.",
+            "Candidate__c": "@Candidate__cRef4"
+        },
+        {
+            "attributes": {
+                "type": "Candidate_History__c",
+                "referenceId": "Candidate_History__cRef10"
+            },
+            "Company_Name__c": "Basketcobol Players, LLC",
+            "Job_Title__c": "Cobol Developer",
+            "Start_Date__c": "2018-01-08",
+            "End_Date__c": "2019-01-11",
+            "Job_Description__c": "The fact that I worked here for a year speaks volumes. Volumes about how lazy I am about finding a new job. I really should have spent more time looking, but the laziness overtook me.",
+            "Candidate__c": "@Candidate__cRef4"
+        },
+        {
+            "attributes": {
+                "type": "Candidate_History__c",
+                "referenceId": "Candidate_History__cRef11"
+            },
+            "Company_Name__c": "Cobol Studs, Inc.",
+            "Job_Title__c": "Cobol Developer",
+            "Start_Date__c": "2017-03-06",
+            "End_Date__c": "2017-05-26",
+            "Job_Description__c": "So much Cobol was done at this job that I'm pretty sure we are the reason the language is obsolete. I can't even say what that means.\r\n\r\nAnyway, lots went on here, and it was spectacular. I want more of this!",
+            "Candidate__c": "@Candidate__cRef4"
+        }
+    ]
+}
